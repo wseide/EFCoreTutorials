@@ -5,4 +5,6 @@ Module 2 Homework
 
 ###### EFCoreTutorials
 
-![GitHub Logo](/Capture.JPG)
+![Screenshot](/Capture.JPG)
+
+![Screenshot2](/screenshot.JPG)
