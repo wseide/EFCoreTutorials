@@ -5,4 +5,4 @@ Module 2 Homework
 
 ###### EFCoreTutorials
 
-![GitHub Logo](/Capture.PNG)
+![GitHub Logo](/Capture.JPG)
